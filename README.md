@@ -1,13 +1,13 @@
-# MetFusionAnnotator Documentation
+# MetaboliteAnnotator Documentation
 
-This repository contains the user manual and documentation for MetFusionAnnotator, a comprehensive metabolomics data analysis and annotation tool.
+This repository contains the user manual and documentation for MetaboliteAnnotator, a comprehensive metabolomics data analysis and annotation tool.
 
 ## About MetaboliteAnnotator
 
 
 ## License
 
-© 2025 MetFusionAnnotator Team. All rights reserved.
+© 2025 MetaboliteAnnotator Team. All rights reserved.
 
 ## Contact
 
